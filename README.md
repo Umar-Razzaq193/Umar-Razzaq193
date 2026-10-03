@@ -1,16 +1,32 @@
-## Hi there 👋
+# Umar Razzaq
 
-<!--
-**Umar-Razzaq193/Umar-Razzaq193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student at the University of Engineering and Technology (UET) Lahore. I am interested in software development, Artifical Intelligence, and learning new technologies. I enjoy working on programming projects and improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, C# |
+| Web Development | HTML, CSS, Bootstrap |
+| Database | SQL |
+| Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+
+### Buy & Sell Hub
+A web-based platform for buying and selling products.
+
+### Blood Donation Management System
+A desktop application for managing blood donors and donation records.
+
+## Education
+
+**BSc Software Engineering**  
+University of Engineering and Technology (UET) Lahore
+
+## Contact
+
+- Email: razzaqumar193@gmail.com
+- GitHub: [@Umar-Razzaq193](https://github.com/Umar-Razzaq193)
